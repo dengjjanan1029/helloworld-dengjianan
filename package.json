@@ -1,0 +1,20 @@
+{
+  "name": "helloworld-dengjianan",
+  "version": "1.0.0",
+  "description": "我的第一个 AI 开发的网站 - HelloWorld（Node.js + Express）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "helloworld",
+    "express",
+    "vercel"
+  ],
+  "author": "邓佳男",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
